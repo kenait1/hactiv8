@@ -11,10 +11,7 @@ server/
 ```
 
 ## Menjalankan
-
-```bash
 cd server && npm install && npm start
-```
 
 Buka **http://localhost:3000** — Express sekaligus melayani folder `client/`,
 jadi tidak perlu Live Server terpisah. (Kalau tetap mau pakai Live Server,
